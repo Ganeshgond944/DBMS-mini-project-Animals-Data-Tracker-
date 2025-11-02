@@ -1,0 +1,3 @@
+body { background: #f8f9fb; }
+#areasList .list-group-item { cursor: pointer; }
+#areasList .list-group-item.active { background-color: #0d6efd; border-color: #0d6efd; }
